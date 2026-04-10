@@ -38,8 +38,7 @@ Multiple-Disease-Prediction-System/
 │
 ├── models/                # Trained ML models (.sav files)
 ├── dataset/               # Datasets used for training
-├── app.py                 # Main Streamlit app
-├── requirements.txt       # Dependencies
+├── Multiple Disease.py                 # Main Streamlit app
 └── README.md              # Project documentation
 ```
 
